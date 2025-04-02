@@ -19,7 +19,7 @@
 
 ```
 💼 Est • UFOP
-💻 Python • <C#> • <C++>
+💻 Python • <Rust> • <C++>
 🛠️ <Jetbrains™> • VSCode
 🧰 <Blender> • <Unity> • Photoshop
 🎮 Hoyoverse • Warframe • + more
