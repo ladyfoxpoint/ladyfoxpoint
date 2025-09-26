@@ -2,12 +2,14 @@
 
 [//]: # "Header"
 
-# ` ๋࣭ ⭑⚝`
+# `  ๋࣭ ⭑⚝ `
 
 <h3> Hiya! I'm Nana! </h3>
-<img height="250" src="https://raw.githubusercontent.com/qilinmoe/qilinmoe/main/assets/ganyu/pfp-circle.png">
 
-#### `Just a silly little girl making silly little programs...`
+<img height="250" src="https://raw.githubusercontent.com/qilinmoe/qilinmoe/main/assets/github/ganyu/pfp-circle.png">
+
+`Rain: a quiet tapping, then noiseless if you let it be.`  
+`Like a heart, an accustomed half-aching.`
 
 </div>
 
@@ -18,9 +20,9 @@
 [//]: # "Main Content"
 
 ```
-💼 Est • UFOP
-💻 Python • <Rust> • <C++>
-🛠️ <Jetbrains™> • VSCode
+💼 <Software Eng.> @ Uninter • <Statistics> @ UFOP
+💻 Python • <C#> • <C++>
+🛠️ VSCode • <Jetbrains™>
 🧰 <Blender> • <Unity> • Photoshop
 🎮 Hoyoverse • Warframe • + more
 
@@ -35,7 +37,7 @@
 
 [//]: # "Footer"
 
-<img height="200" src="https://raw.githubusercontent.com/qilinmoe/qilinmoe/main/assets/ganyu/decoration.png">
+<img height="200" src="https://raw.githubusercontent.com/qilinmoe/qilinmoe/main/assets/github/ganyu/decoration.png">
 
 <h2>───</h2>
 
